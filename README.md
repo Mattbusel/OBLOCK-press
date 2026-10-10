@@ -22,6 +22,7 @@ You start with $300 and a pair of Bred 1s in Parkway Gardenz. Every deal is a ne
 | Platform | Windows 10/11, 64-bit |
 | Engine | Custom engine written in Rust |
 | Size | About 50 MB |
+| DLC | [Complete Supporter Pack](https://store.steampowered.com/app/5357810/?utm_source=presskit), $4.99, optional |
 | Steam | [store.steampowered.com/app/5357680](https://store.steampowered.com/app/5357680/?utm_source=presskit) |
 
 ## What's in it
@@ -35,6 +36,12 @@ You start with $300 and a pair of Bred 1s in Parkway Gardenz. Every deal is a ne
 - Pixel art built from glowing particles, daily weather, original synthesized music
 
 Every name in O'BLOCK is a parody. No real person, brand or company is involved with or endorses the game.
+
+## Supporter Pack DLC ($4.99, Oct 20)
+
+[O'BLOCK - Complete Supporter Pack](https://store.steampowered.com/app/5357810/?utm_source=presskit): optional, the game itself is free. 762 files, about 5.8 GB: the full soundtrack plus 192 World Tour songs across 16 city sounds, a Producer Kit of 16 songs as 24-bit stems, 20 seamless ambience loops, 382 sound effects, 19 4K wallpapers rendered by the game's engine, living wallpapers, all 176 sneakers on posters, and three printable booklets.
+
+Its license lets anyone use the music, ambience, art and sounds in videos and streams about O'BLOCK, monetized or not.
 
 ## Clips (vertical, 1080x1920, free to use)
 
