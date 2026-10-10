@@ -41,7 +41,7 @@ Every name in O'BLOCK is a parody. No real person, brand or company is involved 
 
 [O'BLOCK - Complete Supporter Pack](https://store.steampowered.com/app/5357810/?utm_source=presskit): optional, the game itself is free. 762 files, about 5.8 GB: the full soundtrack plus 192 World Tour songs across 16 city sounds, a Producer Kit of 16 songs as 24-bit stems, 20 seamless ambience loops, 382 sound effects, 19 4K wallpapers rendered by the game's engine, living wallpapers, all 176 sneakers on posters, and three printable booklets.
 
-Its license lets anyone use the music, ambience, art and sounds in videos and streams about O'BLOCK, monetized or not.
+Its license lets owners use the music, ambience, art and sounds in videos and streams about O'BLOCK, monetized or not.
 
 ## Clips (vertical, 1080x1920, free to use)
 
